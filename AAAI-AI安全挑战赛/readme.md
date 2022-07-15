@@ -8,4 +8,4 @@ The near future
 
 ## 比赛结果（96/3691）
 
-![](index.png)
+![](https://github.com/panbo-bridge/competition/blob/main/AAAI-AI%E5%AE%89%E5%85%A8%E6%8C%91%E6%88%98%E8%B5%9B/index.png)
