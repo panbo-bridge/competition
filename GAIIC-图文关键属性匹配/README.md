@@ -118,6 +118,6 @@ sh test.sh data/contest_data/preliminary_testB.txt
 
 本次比赛决赛受疫情影响，延期举行，初赛中我们团队（just）获得第三名，复赛获得第四名
 
-![](C:\Users\pb\Desktop\潘博相关\过去比赛的代码\contest\GAIIC-图文关键属性匹配\index1.PNG)
+![](https://github.com/panbo-bridge/competition/blob/main/GAIIC-%E5%9B%BE%E6%96%87%E5%85%B3%E9%94%AE%E5%B1%9E%E6%80%A7%E5%8C%B9%E9%85%8D/index1.PNG)
 
-![](C:\Users\pb\Desktop\潘博相关\过去比赛的代码\contest\GAIIC-图文关键属性匹配\index2.png)
+![](https://github.com/panbo-bridge/competition/blob/main/GAIIC-%E5%9B%BE%E6%96%87%E5%85%B3%E9%94%AE%E5%B1%9E%E6%80%A7%E5%8C%B9%E9%85%8D/index2.png)
