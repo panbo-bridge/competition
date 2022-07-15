@@ -6,4 +6,4 @@
 
 ## 成绩
 
-![](index.jpg)
+![](https://github.com/panbo-bridge/competition/blob/main/kaggle/index.jpeg)
