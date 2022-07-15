@@ -8,4 +8,4 @@ The near future
 
 ## 比赛结果（96/3691）
 
-![](C:\Users\pb\Desktop\潘博相关\过去比赛的代码\contest\AAAI-AI安全挑战赛\index.png)
+![](index.png)
